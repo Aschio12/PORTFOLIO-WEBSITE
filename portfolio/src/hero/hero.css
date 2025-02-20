@@ -1,0 +1,59 @@
+*{
+    color:white;
+
+}
+.logo{
+    border: 1px black solid;
+   float: left;
+    padding: 30px;
+    color: white;
+}
+.hero-container{
+    background-color: darkgrey;
+    width: 90%;
+    height: fit-content;
+    border: 1px black solid;
+    padding: 20px;
+    margin: auto;
+}
+.inspire-hero{
+    height: fit-content;
+    padding: 40px;
+    width: 97%;
+    margin: auto;
+    margin-top: 50%;
+    margin-bottom: 1%;
+    border: 1px black solid;
+    text-align: center;
+    line-height: normal;
+
+}
+.inspire-hero h1{
+    margin: auto;
+    width: 70%;
+    font-size: 56px;
+    margin-bottom: 5%;
+    border: 1px black solid;
+
+}
+.inspire-hero p{
+    line-height:53px;
+    font-size: 32px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 5%;
+}
+nav{
+    display: hidden;
+    border:1px black solid;
+    width: fit-content;
+    float: right;
+    padding: 10px;
+   
+}
+nav a{
+    display: inline-block;
+    gap: 10px;
+    margin: 10px;
+    font-size: 28px;
+}
