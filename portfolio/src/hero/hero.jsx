@@ -8,16 +8,16 @@ export default function Hero() {
       </div>
       <nav>
         <a href="#">
-          <b>HOME</b>
+          HOME
         </a>
         <a href="#">
-          <b>PROJECT</b>
+          PROJECT
         </a>
         <a href="#about-me">
-          <b>ABOUT ME</b>
+          ABOUT ME
         </a>
         <a href="#CONTACT">
-          <b>CONTACT</b>
+          CONTACT
         </a>
       </nav>
       <section className="inspire-hero">
