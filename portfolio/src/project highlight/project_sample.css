@@ -1,0 +1,51 @@
+.sample-container{
+    width: 94%;
+    margin:auto;
+    height: 90vh;
+    gap: 5px;
+    display: flex;
+    border: 1px black solid;
+    margin-bottom: 20px;
+}
+.discription-conainer{
+    width: 50%;
+    border: 1px yellow solid;
+}
+
+.discription-conainer p{
+    border: 1px black solid;
+    height: fit-content;
+    display: block;
+    overflow:hidden;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+}
+.image-container{
+    width: 50%;
+    border: 1px purple solid;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.image-container button{
+    float: right;
+    margin-top: 40%;
+    font-size: 4rem;
+}
+
+.discription-conainer .left{
+    font-size: 4rem;
+}
+
+.dis-content{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: fit-content;
+    border: 10px black solid;
+    margin-bottom: 30%;
+}
